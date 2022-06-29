@@ -768,6 +768,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -1093,8 +1094,7 @@ h4 {
 }
 
 .col-sm-6-img {
-    width: 270px;
-    height: 270px;
+    max-width: 100%;
 }
 
 
