@@ -1096,3 +1096,7 @@ h4 {
     width: 270px;
     height: 270px;
 }
+
+.img-responsive {
+    height: 90vh;
+}
