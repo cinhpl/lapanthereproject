@@ -569,6 +569,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
+    width: 100%;
 }
 
 .lightbox-caption {
@@ -932,6 +933,7 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        max-width: 100%;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -1073,6 +1075,7 @@ h4 {
 .lists {
     display: flex;
     flex-direction: row;
+    padding-right: 20px;
 }
 
 ul {
@@ -1080,7 +1083,7 @@ ul {
 }
 
 h4 {
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 .all-links {
