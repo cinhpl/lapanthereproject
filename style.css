@@ -569,6 +569,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
+    object-fit: cover;
 }
 
 .lightbox-caption {
@@ -1081,9 +1082,10 @@ ul {
     list-style-type: none;
 }
 
-h4 {
-    margin-left: 30px;
+.all-links p {
+    margin: 10px 0 0 30px;
 }
+
 
 .all-links {
     display: flex;
