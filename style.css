@@ -1070,6 +1070,11 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    .lists {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 .lists {
